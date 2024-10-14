@@ -4,6 +4,7 @@ It is a program that lets the user plays as a human that tries to survive to a w
 Software compatibility:
 
 - OS system: Windows 10, MacOS BigSur
+- REQUIRES JavaFX
 
 Instructions:
 
